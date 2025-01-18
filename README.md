@@ -1,7 +1,3 @@
-Here’s the **final polished version** of your GitHub README with fully optimized formatting:
-
----
-
 # 🎨 Art Portfolio
 
 Welcome to my **Art Portfolio**! Explore my work in **videography**, **editing**, **graphic design**, **motion graphics**, **illustration**, and **photography**.
@@ -10,7 +6,8 @@ Welcome to my **Art Portfolio**! Explore my work in **videography**, **editing**
 
 ## 🎥 Videography / Edits
 
-- [**Hawaii 2.0 🌺🌴🤙**](https://youtu.be/4wq28H_aIQk)  
+- [**Hawaii 2.0 🌺🌴🤙**](https://youtube.com/shorts/VUjdDRpFHHs) 
+- [**Hawaii Short**](https://youtu.be/4wq28H_aIQk)   
 - [**Colty at Fashion NXT 2020**](https://youtu.be/KVc6wtPUZNY)  
 - [**Sushi Mazi**](https://youtu.be/K1xFrcRY_Uo)  
 - [**Sugar Street**](https://youtu.be/yE9MsuXJkXs)  
