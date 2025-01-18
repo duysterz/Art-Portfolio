@@ -1,8 +1,8 @@
-Here's an improved and more organized version of your **GitHub README** using proper markdown formatting for better readability:
+Here’s the **corrected and polished version** of your GitHub README with consistent formatting and improved clarity:
 
 ---
 
-# 🎨 Art-Portfolio
+# 🎨 Art Portfolio
 
 Welcome to my **Art Portfolio**! Here you'll find examples of my work in **videography**, **editing**, **graphic design**, **motion graphics**, **illustration**, and **photography**.
 
@@ -33,4 +33,11 @@ Welcome to my **Art Portfolio**! Here you'll find examples of my work in **video
 
 ---
 
-Let me know if you'd like me to add more sections or further improve it!
+## 🎨 Graphic Designs
+
+View my graphic design work here:  
+[**Graphic Design Portfolio**](https://drive.google.com/drive/folders/11zS9nrMpsWBGXIpt-Y3CRpHO88ulGCNc?usp=drive_link)  
+
+---
+
+Let me know if you'd like to add more sections or make any further improvements!
