@@ -6,7 +6,7 @@ Welcome to my **Art Portfolio**! Explore my work in **videography**, **editing**
 
 ## 🎥 Videography / Edits
 
-- [**Hawaii 2.0 🌺🌴🤙**](https://youtube.com/shorts/VUjdDRpFHHs) 
+- [**Hawaii 2.0 🌺🌴🤙**](https://youtu.be/4wq28H_aIQk) 
 - [**Hawaii Short**](https://youtube.com/shorts/VUjdDRpFHHs)   
 - [**Colty at Fashion NXT 2020**](https://youtu.be/KVc6wtPUZNY)  
 - [**Sushi Mazi**](https://youtu.be/K1xFrcRY_Uo)  
