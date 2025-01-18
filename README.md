@@ -1,10 +1,10 @@
-Here’s the **corrected and polished version** of your GitHub README with consistent formatting and improved clarity:
+Here’s the **final polished version** of your GitHub README with fully optimized formatting:
 
 ---
 
 # 🎨 Art Portfolio
 
-Welcome to my **Art Portfolio**! Here you'll find examples of my work in **videography**, **editing**, **graphic design**, **motion graphics**, **illustration**, and **photography**.
+Welcome to my **Art Portfolio**! Explore my work in **videography**, **editing**, **graphic design**, **motion graphics**, **illustration**, and **photography**.
 
 ---
 
@@ -33,11 +33,14 @@ Welcome to my **Art Portfolio**! Here you'll find examples of my work in **video
 
 ---
 
-## 🎨 Graphic Designs
+## 🎨 Graphic Designs & Photography
 
-View my graphic design work here:  
-[**Graphic Design Portfolio**](https://drive.google.com/drive/folders/11zS9nrMpsWBGXIpt-Y3CRpHO88ulGCNc?usp=drive_link)  
+- View my graphic design portfolio here:  
+  [**Graphic Design Portfolio**](https://drive.google.com/drive/folders/11zS9nrMpsWBGXIpt-Y3CRpHO88ulGCNc?usp=drive_link)  
+
+- Explore more of my artwork on Instagram:  
+  [**Instagram Portfolio**](https://www.instagram.com/duyle.eth/)  
 
 ---
 
-Let me know if you'd like to add more sections or make any further improvements!
+Let me know if you'd like to add more sections or make further improvements!
